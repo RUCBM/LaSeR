@@ -435,7 +435,7 @@ class DataParallelPPOActor(BasePPOActor):
             select_keys.append("ref_log_prob")
         if self.config.use_self_reward_loss and add_self_rewarding_loss:
             select_keys.append("token_level_rewards")
-            select_keys.append("group_mean")
+            # select_keys.append("group_mean")
             select_keys.append("individual_rewards")
         if (self.config.use_self_reward_loss and self.config.self_reward_loss_balanced and add_self_rewarding_loss) or (self.config.use_sft_loss and self.config.sft_loss_balanced and add_self_rewarding_loss):
             select_keys.append("reweighting_factor")
