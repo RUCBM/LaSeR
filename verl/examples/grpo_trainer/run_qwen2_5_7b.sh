@@ -29,7 +29,7 @@ python3 -m verl.trainer.main_ppo \
     actor_rollout_ref.actor.self_rewarding_advantages_filtering_threshold=0.1 \
     actor_rollout_ref.actor.pad_token_id=151643 \
     actor_rollout_ref.actor.self_reward_token_id=151652 \
-    actor_rollout_ref.actor.reasoning_warmup_steps=200 \
+    actor_rollout_ref.actor.reasoning_warmup_steps=0 \
     actor_rollout_ref.actor.self_rewarding_warmup_steps=200 \
     actor_rollout_ref.actor.use_kl_loss=True \
     actor_rollout_ref.actor.kl_loss_coef=0.0 \
