@@ -1,5 +1,5 @@
 # LaSeR: Reinforcement Learning with Last-Token Self-Rewarding
-[![arXiv](https://img.shields.io/badge/arXiv-2505.00662-red.svg)](https://arxiv.org/abs/2505.00662)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14943-red.svg)](https://arxiv.org/abs/2510.14943)
 [![deploy](https://img.shields.io/badge/Hugging%20Face-LaSeR-Models)](https://huggingface.co/collections/Keven16/laser-68eddd427d58817e2b09373a)
 
 
@@ -12,7 +12,7 @@ We propose **LaSeR**, a lightweight and effective algorithm that simultaneously 
 ---------
 
 ## News
-- [2025.10.16] We release our paper on [arxiv](https://arxiv.org/pdf/2505.00662). We release the source code and the checkpoints.
+- [2025.10.16] We release our paper on [arxiv](https://arxiv.org/pdf/2510.14943). We release the source code and the checkpoints.
 
 
 ## Models
