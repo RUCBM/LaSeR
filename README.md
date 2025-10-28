@@ -76,5 +76,10 @@ Our training code is mainly based on [verl](https://github.com/volcengine/verl).
 ## Citation
 If you find our work helpful, please kindly cite as
 ```bibtex
-
+@article{yang2025laser,
+  title={LaSeR: Reinforcement Learning with Last-Token Self-Rewarding},
+  author={Yang, Wenkai and Liu, Weijie and Xie, Ruobing and Guo, Yiju and Wu, Lulu and Yang, Saiyong and Lin, Yankai},
+  journal={arXiv preprint arXiv:2510.14943},
+  year={2025}
+}
 ```
